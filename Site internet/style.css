@@ -1,11 +1,13 @@
 * {
     margin:0;
 }
+
 body {
     font-size: 1em;
     font-family: 'Manrope', sans-serif;
     background-color: #1F2039;
     }
+
 a {
     color:#242424;
     text-decoration: none;
@@ -48,9 +50,11 @@ a:hover {
 }
 .lien-icone {
     margin-left:30px;
+    text-decoration: none;
 }
 .lien-icone:hover {
     opacity: 0.5;
+    text-decoration: none;
 }
 .carre-contenu{
 border-bottom: 1px solid #8e86b5;
